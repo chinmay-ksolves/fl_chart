@@ -13,6 +13,8 @@
 
 - [ ] Add Zoom feature
 
+- Add Combo chart feature (Bar chart + Line chart)
+
 - [x] Add stacked column chart (on our BarChart)
 
 let me know your suggestions to add here
